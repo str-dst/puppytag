@@ -1,7 +1,9 @@
 # Puppytag
  Simple parametric puppy tag for multicolor 3D printing
 
-<img width="500" src="https://i.imgur.com/lTVzpdb.jpeg">
+Two variants possible:
+<img width="500" src="https://i.imgur.com/iygTZy0.jpeg">
+<img width="500" src="https://i.imgur.com/0jGv5E7.jpeg">
 
  Built in OpenSCAD
 
