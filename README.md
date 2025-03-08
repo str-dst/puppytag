@@ -6,6 +6,7 @@
  Built in OpenSCAD
 
  - name can be changed via parameter
+ - option for moving the name over the paw
  - optional internal pocket for film NFC chips
 
  Color changes at 1.8 and 2.4 mm layer height.
